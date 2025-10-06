@@ -3,7 +3,7 @@ const Index = () => {
     <div className="min-h-screen bg-gradient-to-br from-background via-purple-50 to-blue-50 dark:from-background dark:via-purple-950/20 dark:to-blue-950/20 flex items-center justify-center p-8 overflow-hidden">
       <div className="relative w-full max-w-6xl h-[600px]">
         <h1 className="text-4xl font-bold text-center mb-12 text-foreground">
-          Animated Boxes Test
+          Testing App
         </h1>
         
         {/* Box 1 - Purple - Floating */}
